@@ -1,1 +1,2 @@
 # worklogs-counter
+This project helps to calculate the working hours in given month of the given employee. Using short shellscripts the program automatically calculate the coworker's working hours in specific month. Function is in the shared.sh and running report.sh will call this function. All we need to do is running report.sh with giving variables (name and month).
